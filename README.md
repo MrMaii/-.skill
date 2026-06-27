@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="assets/banner.svg" width="820" alt="向上汇报体 · report-to-boss" />
+<img src="https://raw.githubusercontent.com/MrMaii/-.skill/main/assets/banner.svg" width="820" alt="向上汇报体 · report-to-boss" />
 
 <br/>
 
@@ -66,7 +66,7 @@
 汇报是一套层层递进的能力——**下层是地基，上层是艺术，四层同在方为知音。**
 
 <div align="center">
-<img src="assets/layers.svg" width="640" alt="四层沟通能力模型" />
+<img src="https://raw.githubusercontent.com/MrMaii/-.skill/main/assets/layers.svg" width="640" alt="四层沟通能力模型" />
 </div>
 
 > 权重随场景流转：*事越急，越往下沉，重实质；事越大越开放，越往上扬，重激发。*
